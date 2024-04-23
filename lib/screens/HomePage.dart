@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:test_app/components/bottom_tabbar.dart';
 import 'package:test_app/constants/color_constants.dart';
 import 'package:test_app/models/tab_icons.dart';
-import 'package:test_app/screens/PowerPage.dart';
-import 'package:test_app/screens/UserPage.dart';
 import 'package:test_app/screens/cardPage.dart';
 
 class HomePage extends StatefulWidget {
